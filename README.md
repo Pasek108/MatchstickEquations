@@ -1,4 +1,4 @@
-<h1 align="center">UR-MatchstickEquations - Readme</h1>
+<h1 align="center">MatchstickEquations</h1>
 <p align="center">
   <strong>
     A matchstick equation puzzle game featuring two versions: a Terminal interface and an Arduino Yún implementation using a MAX7219 32x8 LED Dot Matrix
