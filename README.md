@@ -1,9 +1,11 @@
 <h1 align="center">UR-MatchstickEquations - Readme</h1>
 <p align="center">
   <strong>
-    Project from my studies at <a href="https://www.ur.edu.pl/pl/kolegia/kolegium-nauk-przyrodniczych">University of Rzeszów (UR)</a>
+    A matchstick equation puzzle game featuring two versions: a Terminal interface and an Arduino Yún implementation using a MAX7219 32x8 LED Dot Matrix
   </strong>
 </p>
+
+<!--
 <div align="center">
   <a href="https://www.ur.edu.pl/pl/kolegia/kolegium-nauk-przyrodniczych">
     <img src="_for_readme/ur_banner.jpg?">
@@ -24,7 +26,7 @@
   * [Matchstick representation](#matchstick-representation)
   * [Equation generator](#equation-generator)
   * [Project structure](#project-structure)
-
+-->
 <br>
 
 # Overview :sparkles:
@@ -400,6 +402,7 @@ After generating all incorrect equations, I rewrote the function code in C++ and
 
 Check *Console/equation_generation_2.html* file for more info and run it for full list of broken equations.
 
+<!--
 ## Project structure
 - :file_folder: UR-MatchstickEquations (project folder)
   - :page_facing_up: *github config*
@@ -416,3 +419,4 @@ Check *Console/equation_generation_2.html* file for more info and run it for ful
     - :page_facing_up: *console.exe file - console version program*
     - :page_facing_up: *equation_generation_1.pl file - used to create correct equations*
     - :page_facing_up: *equation_generation_2.html file - used to change correct equations*
+-->
