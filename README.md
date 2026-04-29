@@ -59,6 +59,7 @@ This project creates solvable equation and presents it in the form of matches on
   - Dividing the equation into columns (A-D) and segments (1-7).
   - Control using input values (e.g., column and segment, like B1 D7).
 
+<!--
 <br>
 
 > [!NOTE]  
@@ -66,6 +67,7 @@ This project creates solvable equation and presents it in the form of matches on
 > - Moving more than one matchstick
 > - Adding 2nd display and using 2-digit numbers
 > - Multiplication and divide operators (X and /)
+-->
 
 ## Technologies
 - [Arduino Yún](https://docs.arduino.cc/retired/boards/arduino-yun/)
